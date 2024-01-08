@@ -7,6 +7,6 @@ leverage --vt.充分利用，使用 --use, utilize
 
 capability --n.能力，性能，容量 --ability
 
-
+a substantial amount of --大量的 --many
 
 
