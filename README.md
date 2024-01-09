@@ -15,3 +15,4 @@ circumvent --vt. 规避, 避开
 
 inherent to xxx --xxx固有的
 
+holistic --adj.整体的, 全面的 --global, the whole
