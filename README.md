@@ -1,4 +1,5 @@
-![image](https://github.com/staymylove/academic-words-in-academic-papers/assets/77335979/c10b056d-ab48-498d-9452-4078b3722717)# -论文词汇
+# -论文词汇
+
 pivotal  -- adj.核心的，关键性的  --important
 
 encompass -- vt.包含，围绕 --contain
