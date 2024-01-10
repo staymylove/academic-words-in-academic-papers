@@ -21,4 +21,6 @@ Subsequently --adv. 随后, 之后 --after that
 
 notably --adv.明显地，显著地；尤其，特别 -especially
 
+demonstrate --vt. 证明, 演示, 示范 --prove, show
 
+superior --adj. 优秀的, 优越的, 更好的 --good, great (superior performance)
