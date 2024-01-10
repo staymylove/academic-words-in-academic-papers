@@ -1,4 +1,4 @@
-# -论文词汇
+![image](https://github.com/staymylove/academic-words-in-academic-papers/assets/77335979/c10b056d-ab48-498d-9452-4078b3722717)# -论文词汇
 pivotal  -- adj.核心的，关键性的  --important
 
 encompass -- vt.包含，围绕 --contain
@@ -24,3 +24,7 @@ notably --adv.明显地，显著地；尤其，特别 -especially
 demonstrate --vt. 证明, 演示, 示范 --prove, show
 
 superior --adj. 优秀的, 优越的, 更好的 --good, great (superior performance)
+
+corpora --语料库 We pre-train the MLLM from scratch on multimodal corpora
+
+from scratch --从头开始，从零做起 We pre-train the MLLM from scratch on multimodal corpora
