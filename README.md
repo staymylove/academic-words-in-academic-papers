@@ -6,6 +6,8 @@ encompass -- vt.包含，围绕 --contain
 
 leverage --vt.充分利用，使用 --use, utilize
 
+capitalize on 利用，充分利用
+
 capability --n.能力，性能，容量 --ability
 
 a substantial amount of --大量的 --many
