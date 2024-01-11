@@ -31,3 +31,5 @@ superior --adj. 优秀的, 优越的, 更好的 --good, great (superior performa
 corpora --语料库 We pre-train the MLLM from scratch on multimodal corpora
 
 from scratch --从头开始，从零做起 We pre-train the MLLM from scratch on multimodal corpora
+
+have made exciting strides --取得了令人激动的进展
