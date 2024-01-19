@@ -35,3 +35,12 @@ from scratch --从头开始，从零做起 We pre-train the MLLM from scratch on
 have made exciting strides --取得了令人激动的进展
 
 synthesize --vt. 合成 --更强调将不同的元素整合为一个整体，而"generate"更强调创造新的东西
+
+address --vt.解决 -- address xxx challenges
+
+derived from 源于，从xxx提取出来
+
+encompass v. 包含 xxx dataset encompassing about 68K xxx
+
+
+
