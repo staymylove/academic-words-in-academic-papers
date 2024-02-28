@@ -42,5 +42,7 @@ derived from 源于，从xxx提取出来
 
 encompass v. 包含 xxx dataset encompassing about 68K xxx
 
+simultaneously adv. 同时  --at the same time
 
-
+coarse adj. 粗的，粗糙的  coarse-grained 粗粒度 fine-grained 细粒度
+ 
