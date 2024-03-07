@@ -45,4 +45,7 @@ encompass v. 包含 xxx dataset encompassing about 68K xxx
 simultaneously adv. 同时  --at the same time
 
 coarse adj. 粗的，粗糙的  coarse-grained 粗粒度 fine-grained 细粒度
- 
+
+intricate adj. 复杂的，错综复杂的
+
+elaborate adj. 复杂的，精心制作的，详尽的
