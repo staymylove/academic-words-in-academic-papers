@@ -49,3 +49,6 @@ coarse adj. 粗的，粗糙的  coarse-grained 粗粒度 fine-grained 细粒度
 intricate adj. 复杂的，错综复杂的
 
 elaborate adj. 复杂的，精心制作的，详尽的
+
+laconic adj. 简明的  --simple brief
+
